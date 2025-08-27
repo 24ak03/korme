@@ -1,5 +1,8 @@
 export default function Collections(){
-    <div>
-        <h1>Hiii</h1>
-    </div>
+    return (
+        <main style={{ padding: "2rem" }}>
+            <h1>Collections</h1>
+            <p>Explore curated art collections.</p>
+        </main>
+    );
 }
