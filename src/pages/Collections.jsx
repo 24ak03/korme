@@ -1,5 +1,7 @@
 export default function Collections(){
+   return(
     <div>
-        <h1>Hiii</h1>
+        <h1>Collections page</h1>
     </div>
+   )
 }
